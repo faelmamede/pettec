@@ -1,0 +1,15 @@
+module.exports = {
+    USER_KEY: '',
+    BASE_API_URL: '',
+    MEMBERS: {
+        tutor: {name: "", info: "Tutor", img: ""},
+        students: [
+            {
+                name: "",
+                info: "",
+                img: ""
+            }, 
+                ...
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+module.exports = {
+    STANDARD_ADMIN_EMAIL: '',
+    STANDARD_ADMIN_PASSWORD: '',
+    STANDARD_ADMIN_ROUTE: '',
+    USER_AUTH_SECRET: '',
+    DB_CONFIG: {
+        host: '127.0.0.1',
+        port: 5432,
+        database: 'pettec',
+        user: '',
+        password: ''
+    },
+    NOTIFICATION_EMAIL: '',
+    NOTIFICATION_PASSWORD: ''
+}
